@@ -718,7 +718,7 @@ const voices = [
     option: 'Korean (ko-KR): Jin (female)',
     customizable: true,
     gender: 'female',
-    url: 'https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/852cd347-3060-4fe7-a6a7-3013173b513d/v1/voices/ko-KR_JinV3Voice',
+    url: 'https://api.us-south.text-to-speech.watson.cloud.ibm.com/v1/voices/ko-KR_JinV3Voice',
     supported_features: {
       voice_transformation: false,
       custom_pronunciation: true,
